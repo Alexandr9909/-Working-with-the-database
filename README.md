@@ -34,7 +34,7 @@
 
 Ожидаемый результат - получение таблицы со стобцами full_name и position со следующими валидными данными:
 
-| full_name | position  
+| full_name | position |  
 | :---:   | :-: | :-: |
 | Seconds | 301 | 283 |
 ***
